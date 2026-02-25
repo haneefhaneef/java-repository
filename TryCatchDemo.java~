@@ -1,0 +1,11 @@
+class TryCatchDemo{
+  public Static void main (String args[]){
+    try{
+      int arr[]=new int[3];
+       arr[10]=30;
+    }
+    
+    catch (Arithmetic Exception e){
+      System.out.println("arithmetic error")
+    }
+      
